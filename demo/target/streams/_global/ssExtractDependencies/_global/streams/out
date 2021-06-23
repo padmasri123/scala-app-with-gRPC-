@@ -1,0 +1,12 @@
+[error] coursier.ResolutionException: Encountered 1 error(s) in dependency resolution:
+[error]     io.ontherocks:hello-grpc-scala-protocol_2.12:1.0.0:
+[error]         download error: Caught java.io.IOException: Server returned HTTP response code: 403 for URL: https://dl.bintray.com/pbvie/maven/io/ontherocks/hello-grpc-scala-protocol_2.12/1.0.0/hello-grpc-scala-protocol_2.12-1.0.0.pom (Server returned HTTP response code: 403 for URL: https://dl.bintray.com/pbvie/maven/io/ontherocks/hello-grpc-scala-protocol_2.12/1.0.0/hello-grpc-scala-protocol_2.12-1.0.0.pom) while downloading https://dl.bintray.com/pbvie/maven/io/ontherocks/hello-grpc-scala-protocol_2.12/1.0.0/hello-grpc-scala-protocol_2.12-1.0.0.pom
+[error]         not found:
+[error]             /Users/rpadmasr/.ivy2/local/io.ontherocks/hello-grpc-scala-protocol_2.12/1.0.0/ivys/ivy.xml
+[error]             https://repo1.maven.org/maven2/io/ontherocks/hello-grpc-scala-protocol_2.12/1.0.0/hello-grpc-scala-protocol_2.12-1.0.0.pom
+[error] (hello-grpc-scala-demo / ssExtractDependencies) coursier.ResolutionException: Encountered 1 error(s) in dependency resolution:
+[error]     io.ontherocks:hello-grpc-scala-protocol_2.12:1.0.0:
+[error]         download error: Caught java.io.IOException: Server returned HTTP response code: 403 for URL: https://dl.bintray.com/pbvie/maven/io/ontherocks/hello-grpc-scala-protocol_2.12/1.0.0/hello-grpc-scala-protocol_2.12-1.0.0.pom (Server returned HTTP response code: 403 for URL: https://dl.bintray.com/pbvie/maven/io/ontherocks/hello-grpc-scala-protocol_2.12/1.0.0/hello-grpc-scala-protocol_2.12-1.0.0.pom) while downloading https://dl.bintray.com/pbvie/maven/io/ontherocks/hello-grpc-scala-protocol_2.12/1.0.0/hello-grpc-scala-protocol_2.12-1.0.0.pom
+[error]         not found:
+[error]             /Users/rpadmasr/.ivy2/local/io.ontherocks/hello-grpc-scala-protocol_2.12/1.0.0/ivys/ivy.xml
+[error]             https://repo1.maven.org/maven2/io/ontherocks/hello-grpc-scala-protocol_2.12/1.0.0/hello-grpc-scala-protocol_2.12-1.0.0.pom
